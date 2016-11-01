@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">Cancellable Sort</string>
+    <string name="app_name">Recruitment tests</string>
+    <string name="activity_cancellable_sort_name">Cancellable Sort</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_view_message">Hi,\nPlease pick one of these tests and have fun! :)</string>
+    <string name="navigation_item_async">Async Sort</string>
+    <string name="navigation_item_strings">String Replacement</string>
 </resources>
