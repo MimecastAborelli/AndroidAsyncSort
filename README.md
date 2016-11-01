@@ -110,3 +110,8 @@ Since this is quite a hard method to document, its easier to give a few examples
  "Hello you, Goodbye me" replacing "Hello" ==> "Goodbye", "Goodbye" ==> "So long". Gives "Goodbye you, So long me".
 
  For the test, assume all target strings should only match exact sequences of themselves (e.g case sensitive, diacritic sensitive etc). e.g "Hello" will not match "hello".
+ 
+ 
+ Example
+ 
+![Alt text](/Android_StringReplacement_Screenshot.png?raw=true)
