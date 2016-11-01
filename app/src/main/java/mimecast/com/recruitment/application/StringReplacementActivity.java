@@ -61,7 +61,7 @@ public class StringReplacementActivity extends Activity {
     /**
      * Coding test
      *
-     * Implements replaceOccurrenceOfStrings() to atomically replace multiple strings at once within the receiver
+     * Implements replaceOccurrenceOfStrings() to atomically replace multiple strings at once within the sourceString
      *
      * Return the result
      *
